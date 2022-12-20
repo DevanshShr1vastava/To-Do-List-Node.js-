@@ -1,7 +1,7 @@
 # To-Do-List-App
 - This is a todo list app, which does as the name says
 - You can have multiple separate to-do lists by just writing /<NewListName> at the end of the url
-- you need to install the following node modules in your directory
+- you need to install the following node modules in your directory using npm install <>
     - ejs
     - lodash
     - monogoose
